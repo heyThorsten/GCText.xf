@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="GCText.xf.MainPage"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
+
+    <ScrollView>
+        <StackLayout>
+            <Frame
+                Padding="24"
+                BackgroundColor="#2196F3"
+                CornerRadius="0">
+                <Label
+                    FontSize="36"
+                    HorizontalTextAlignment="Center"
+                    Text="Welcome to Xamarin.Forms!"
+                    TextColor="White" />
+            </Frame>
+            <Button
+                Clicked="GCCollect"
+                HorizontalOptions="Center"
+                Text="GC.Collect()" />
+
+            <Label
+                FontSize="18"
+                HorizontalOptions="Center"
+                Text="Open page with plain control:" />
+
+            <FlexLayout x:Name="buttons" Wrap="Wrap">
+                <BindableLayout.ItemTemplate>
+                    <DataTemplate>
+                        <Button Command="{Binding Command}" Text="{Binding Description}" />
+                    </DataTemplate>
+                </BindableLayout.ItemTemplate>
+            </FlexLayout>
+
+            <Label
+                FontSize="18"
+                HorizontalOptions="Center"
+                Text="Open page with more complex control:" />
+
+            <FlexLayout x:Name="buttonsMoreComplex" Wrap="Wrap">
+                <BindableLayout.ItemTemplate>
+                    <DataTemplate>
+                        <Button Command="{Binding Command}" Text="{Binding Description}" />
+                    </DataTemplate>
+                </BindableLayout.ItemTemplate>
+            </FlexLayout>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>
