@@ -1,0 +1,302 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="GCText.xf.ScrollViewPage"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout>
+                <Label
+                    Margin="5"
+                    BackgroundColor="Green"
+                    HeightRequest="30"
+                    Text="blablabla" />
+                <Label
+                    Margin="5"
+                    BackgroundColor="Green"
+                    HeightRequest="30"
+                    Text="blablabla" />
+                <Label
+                    Margin="5"
+                    BackgroundColor="Green"
+                    HeightRequest="30"
+                    Text="blablabla" />
+                <Label
+                    Margin="5"
+                    BackgroundColor="Green"
+                    HeightRequest="30"
+                    Text="blablabla" />
+                <Label
+                    Margin="5"
+                    BackgroundColor="Green"
+                    HeightRequest="30"
+                    Text="blablabla" />
+                <Label
+                    Margin="5"
+                    BackgroundColor="Green"
+                    HeightRequest="30"
+                    Text="blablabla" />
+                <Label
+                    Margin="5"
+                    BackgroundColor="Green"
+                    HeightRequest="30"
+                    Text="blablabla" />
+                <Label
+                    Margin="5"
+                    BackgroundColor="Green"
+                    HeightRequest="30"
+                    Text="blablabla" />
+                <Label
+                    Margin="5"
+                    BackgroundColor="Green"
+                    HeightRequest="30"
+                    Text="blablabla" />
+                <Label
+                    Margin="5"
+                    BackgroundColor="Green"
+                    HeightRequest="30"
+                    Text="blablabla" />
+                <Label
+                    Margin="5"
+                    BackgroundColor="Green"
+                    HeightRequest="30"
+                    Text="blablabla" />
+                <Label
+                    Margin="5"
+                    BackgroundColor="Green"
+                    HeightRequest="30"
+                    Text="blablabla" />
+                <Label
+                    Margin="5"
+                    BackgroundColor="Green"
+                    HeightRequest="30"
+                    Text="blablabla" />
+                <Label
+                    Margin="5"
+                    BackgroundColor="Green"
+                    HeightRequest="30"
+                    Text="blablabla" />
+                <Label
+                    Margin="5"
+                    BackgroundColor="Green"
+                    HeightRequest="30"
+                    Text="blablabla" />
+                <Label
+                    Margin="5"
+                    BackgroundColor="Green"
+                    HeightRequest="30"
+                    Text="blablabla" />
+                <Label
+                    Margin="5"
+                    BackgroundColor="Green"
+                    HeightRequest="30"
+                    Text="blablabla" />
+                <Label
+                    Margin="5"
+                    BackgroundColor="Green"
+                    HeightRequest="30"
+                    Text="blablabla" />
+                <Label
+                    Margin="5"
+                    BackgroundColor="Green"
+                    HeightRequest="30"
+                    Text="blablabla" />
+                <Label
+                    Margin="5"
+                    BackgroundColor="Green"
+                    HeightRequest="30"
+                    Text="blablabla" />
+                <Label
+                    Margin="5"
+                    BackgroundColor="Green"
+                    HeightRequest="30"
+                    Text="blablabla" />
+                <Label
+                    Margin="5"
+                    BackgroundColor="Green"
+                    HeightRequest="30"
+                    Text="blablabla" />
+                <Label
+                    Margin="5"
+                    BackgroundColor="Green"
+                    HeightRequest="30"
+                    Text="blablabla" />
+                <Label
+                    Margin="5"
+                    BackgroundColor="Green"
+                    HeightRequest="30"
+                    Text="blablabla" />
+                <Label
+                    Margin="5"
+                    BackgroundColor="Green"
+                    HeightRequest="30"
+                    Text="blablabla" />
+                <Label
+                    Margin="5"
+                    BackgroundColor="Green"
+                    HeightRequest="30"
+                    Text="blablabla" />
+                <Label
+                    Margin="5"
+                    BackgroundColor="Green"
+                    HeightRequest="30"
+                    Text="blablabla" />
+                <Label
+                    Margin="5"
+                    BackgroundColor="Green"
+                    HeightRequest="30"
+                    Text="blablabla" />
+                <Label
+                    Margin="5"
+                    BackgroundColor="Green"
+                    HeightRequest="30"
+                    Text="blablabla" />
+                <Label
+                    Margin="5"
+                    BackgroundColor="Green"
+                    HeightRequest="30"
+                    Text="blablabla" />
+                <Label
+                    Margin="5"
+                    BackgroundColor="Green"
+                    HeightRequest="30"
+                    Text="blablabla" />
+                <Label
+                    Margin="5"
+                    BackgroundColor="Green"
+                    HeightRequest="30"
+                    Text="blablabla" />
+                <Label
+                    Margin="5"
+                    BackgroundColor="Green"
+                    HeightRequest="30"
+                    Text="blablabla" />
+                <Label
+                    Margin="5"
+                    BackgroundColor="Green"
+                    HeightRequest="30"
+                    Text="blablabla" />
+                <Label
+                    Margin="5"
+                    BackgroundColor="Green"
+                    HeightRequest="30"
+                    Text="blablabla" />
+                <Label
+                    Margin="5"
+                    BackgroundColor="Green"
+                    HeightRequest="30"
+                    Text="blablabla" />
+                <Label
+                    Margin="5"
+                    BackgroundColor="Green"
+                    HeightRequest="30"
+                    Text="blablabla" />
+                <Label
+                    Margin="5"
+                    BackgroundColor="Green"
+                    HeightRequest="30"
+                    Text="blablabla" />
+                <Label
+                    Margin="5"
+                    BackgroundColor="Green"
+                    HeightRequest="30"
+                    Text="blablabla" />
+                <Label
+                    Margin="5"
+                    BackgroundColor="Green"
+                    HeightRequest="30"
+                    Text="blablabla" />
+                <Label
+                    Margin="5"
+                    BackgroundColor="Green"
+                    HeightRequest="30"
+                    Text="blablabla" />
+                <Label
+                    Margin="5"
+                    BackgroundColor="Green"
+                    HeightRequest="30"
+                    Text="blablabla" />
+                <Label
+                    Margin="5"
+                    BackgroundColor="Green"
+                    HeightRequest="30"
+                    Text="blablabla" />
+                <Label
+                    Margin="5"
+                    BackgroundColor="Green"
+                    HeightRequest="30"
+                    Text="blablabla" />
+                <Label
+                    Margin="5"
+                    BackgroundColor="Green"
+                    HeightRequest="30"
+                    Text="blablabla" />
+                <Label
+                    Margin="5"
+                    BackgroundColor="Green"
+                    HeightRequest="30"
+                    Text="blablabla" />
+                <Label
+                    Margin="5"
+                    BackgroundColor="Green"
+                    HeightRequest="30"
+                    Text="blablabla" />
+                <Label
+                    Margin="5"
+                    BackgroundColor="Green"
+                    HeightRequest="30"
+                    Text="blablabla" />
+                <Label
+                    Margin="5"
+                    BackgroundColor="Green"
+                    HeightRequest="30"
+                    Text="blablabla" />
+                <Label
+                    Margin="5"
+                    BackgroundColor="Green"
+                    HeightRequest="30"
+                    Text="blablabla" />
+                <Label
+                    Margin="5"
+                    BackgroundColor="Green"
+                    HeightRequest="30"
+                    Text="blablabla" />
+                <Label
+                    Margin="5"
+                    BackgroundColor="Green"
+                    HeightRequest="30"
+                    Text="blablabla" />
+                <Label
+                    Margin="5"
+                    BackgroundColor="Green"
+                    HeightRequest="30"
+                    Text="blablabla" />
+                <Label
+                    Margin="5"
+                    BackgroundColor="Green"
+                    HeightRequest="30"
+                    Text="blablabla" />
+                <Label
+                    Margin="5"
+                    BackgroundColor="Green"
+                    HeightRequest="30"
+                    Text="blablabla" />
+                <Label
+                    Margin="5"
+                    BackgroundColor="Green"
+                    HeightRequest="30"
+                    Text="blablabla" />
+                <Label
+                    Margin="5"
+                    BackgroundColor="Green"
+                    HeightRequest="30"
+                    Text="blablabla" />
+                <Label
+                    Margin="5"
+                    BackgroundColor="Green"
+                    HeightRequest="30"
+                    Text="blablabla" />
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

@@ -39,6 +39,11 @@ namespace GCText.xf
             {
                 new ButtonAction
                 {
+                    Description = "ScrollViewPage",
+                    Command = new Command(() => Application.Current.MainPage.Navigation.PushAsync(new ScrollViewPage()))
+                },
+                new ButtonAction
+                {
                     Description = "AbsoluteLayout",
                     Command = new Command(() => OpenContainerPage(() => new AbsoluteLayout()))
                 },
